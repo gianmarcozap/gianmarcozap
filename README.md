@@ -8,8 +8,8 @@ Una profesión donde aprender no tiene limites, ya que todos los dias se aprende
 
 * 🌍  I'm based in Perú
 * ✉️  You can contact me at [gianmarcozap97@gmail.com](mailto:gianmarcozap97@gmail.com)
-* 🚀  I'm currently working on [Scrapper](http://github.com/TioGian97/MakeUpScrapperPe)
-* 🧠  I'm learning NestJs
+* 🚀  I'm currently work in my own projects and looking for any colab
+* 🧠  Focus on be updated
 * 🤝  I'm open to collaborating on Any project
 
 ### Skills
