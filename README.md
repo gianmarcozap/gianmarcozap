@@ -1,31 +1,59 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gianmarco Zapata
-========================================================================================================================================
+<div align="center">
 
-Web Developer and Designer
---------------------------
+# Gianmarco Zapata · GianDev
+### *Donde los bugs piden permiso y PostgreSQL duerme tranquilo.*
 
-Una profesión donde aprender no tiene limites, ya que todos los dias se aprende algo nuevo
+[![Portafolio](https://img.shields.io/badge/Portafolio-giandev.fun-105666?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.giandev.fun)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gianmarco_Zapata-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianmarco-zapata-cruz-bb8b19218/)
+[![Email](https://img.shields.io/badge/Email-gianmarcozap97%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gianmarcozap97@gmail.com)
 
-* 🌍  I'm based in Perú
-* ✉️  You can contact me at [gianmarcozap97@gmail.com](mailto:gianmarcozap97@gmail.com)
-* 🚀  I'm currently work in my own projects and looking for any colab
-* 🧠  Focus on be updated
-* 🤝  I'm open to collaborating on Any project
+</div>
 
-### Skills
+---
 
+### 🏛️ Sobre mí
 
-<p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" title="GNU Bash"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" title="Vue"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS"/></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap"/></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" title="Express"/></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" title="NestJS"/></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"/></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" title="Firebase"/></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" title="MetaMask"/></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" title="Google Cloud"/></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" title="Wordpress"/></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" title="Amazon Web Services"/></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a>
-</p>
+Ingeniero de Software enfocado en **Backend y Arquitectura de Sistemas**. Diseño y construyo soluciones de alto rendimiento preparadas para escalar: desde microservicios concurrentes y APIs de baja latencia hasta modelado relacional estricto con garantías ACID.
 
+Priorizo **conceptos sólidos sobre modas**, separación estricta de responsabilidades (*Clean / Hexagonal Architecture*) y código testeable con impacto directo en negocio.
 
-### Socials
+---
 
-<p align="left"> <a href="https://discord.com/users/tiogian" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> <a href="https://www.github.com/gianmarcozap" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="http://www.instagram.com/gianmarcozap97" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instragram" title="Instragram" /> </picture> </a> <a href="https://www.linkedin.com/in/gianmarco-zapata-cruz-bb8b19218/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+### 🛠️ Stack Tecnológico
 
-### Badges
+| Capa | Tecnologías y Herramientas |
+| :--- | :--- |
+| **Lenguajes & Runtimes** | **Go 1.23** (Goroutines, Concurrencia), **TypeScript**, **Node.js** |
+| **Bases de Datos & Almacenamiento** | **PostgreSQL** (Modelado relacional, ACID, Índices), **Redis** |
+| **Arquitectura & Mensajería** | Clean Architecture, Hexagonal, RabbitMQ, APIs REST, Microservicios |
+| **Infraestructura & Tooling** | Docker, Linux, Git, CI/CD |
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/gianmarcozap"><img src="https://github-readme-stats.vercel.app/api?username=gianmarcozap&show_icons=true&hide=stars,prs,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="gianmarcozap's GitHub stats" /></a>
+### 🚀 Sistemas & Proyectos Destacados
+
+- **[HabitaHub Pro](https://www.giandev.fun)** — *Micro-SaaS Inmobiliario & PropTech PMS*  
+  Plataforma para gestión integral de propiedades, inquilinos y cobros recurrentes. Diseñada con arquitectura modular en **Go** y persistencia relacional en **PostgreSQL**.
+
+- **[AgroCamacho](https://www.giandev.fun)** — *Trazabilidad Agrícola y Gestión de Lotes*  
+  Sistema de monitoreo, control de cosechas y trazabilidad operativa de punta a punta construido sobre **Node.js** y **SQL**.
+
+- **[Retail POS & Stock Multialmacén](https://www.giandev.fun)** — *Punto de Venta de Alta Velocidad*  
+  Solución de facturación rápida, sincronización de inventario multisede y control de caja en tiempo real.
+
+- **[OmniStudio](https://www.giandev.fun)** — *Hub de Catalogación E-commerce*  
+  Gestión y estandarización centralizada de catálogos y stock multicanal.
+
+---
+
+### 📊 Actividad en GitHub
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gianmarcozap&theme=tokyonight&hide_border=true&background=0D1117&ring=105666&fire=105666&currStreakLabel=105666" alt="GitHub Streak Stats" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Desarrollado con criterio técnico desde Perú · Conectemos en <a href="https://www.giandev.fun">giandev.fun</a></sub>
+</div>
